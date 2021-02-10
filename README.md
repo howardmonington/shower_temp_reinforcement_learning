@@ -3,8 +3,7 @@
 #### -- Project Status: Completed
 
 ## Project Intro/Objective
-One of the problems in my current apartment is that the shower temperature fluctuates frequently. Especially if someone flushes the toilet. In this project, I wanted to simulate 
-
+One of the problems in my current apartment is that the shower temperature fluctuates frequently. Especially if someone flushes the toilet. In this project, I wanted to simulate the fluctuating shower environment and see if I could build a reinforcement learning model with TensorFlow in order to keep the temperature within the desired range.
 ### Methods Used
 * Deep Learning
 * Reinforcement Learning
